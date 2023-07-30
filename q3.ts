@@ -20,7 +20,7 @@ for (let i = 1; i <= n3; i++) {// O {N}
     string3 += "_";
   }
   for (let x = n3 - i +1; x > 0; x--) {// O {N}
-    string3 += x + 0;
+    string3 += x ;
   }
   string3 += "\n";
 }

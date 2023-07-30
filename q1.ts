@@ -20,7 +20,7 @@ for(let i = 0; i < n; i++) {
       string += "*";// first and last row stars
     }
     else {
-      if(j === 0 || j === n - 4) {
+      if(j === 0 || j === n - n/2) {
         string += "*";
       }
       else {
