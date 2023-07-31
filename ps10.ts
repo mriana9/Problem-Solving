@@ -2,7 +2,7 @@ console.log("PS10: Remove Exclamation Marks ");
 console.log('__________________________________________________________________________________________________')
 
 /*Examples
-
+Mariana! --> Mariana
 */
 
 function removeExclamationMarks(s) {
