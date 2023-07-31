@@ -10,6 +10,7 @@ function removeExclamationMarks(s) {
       for (let i = 0; i < s.length ; i++) {
           if (s[i] === '!'){
               mystr += ''
+              //continue
           }
           else {
               mystr += s[i]
