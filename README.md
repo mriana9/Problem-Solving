@@ -35,5 +35,36 @@
 <img width="950" alt="PS9" src="https://github.com/mriana9/Problem-Solving/assets/91687711/749ded35-3a4f-45d4-a69a-3254c6ce254d">
 </hr>
 
+<h2>❤️PS10: Remove Exclamation Marks</h2>
+<img width="950" alt="PS10" src="https://github.com/mriana9/Problem-Solving/assets/91687711/df24a7d8-d0a2-4e76-88c2-750f77ce83f8">
+</hr>
+
+<h2>❤️PS11: Find Maximum and Minimum Values of a List</h2>
+<img width="950" alt="PS11" src="https://github.com/mriana9/Problem-Solving/assets/91687711/a1967ae3-f398-48c7-811c-1b7a66a88951">
+</hr>
+
+<h2>❤️PS12: Multiply</h2>
+<img width="950" alt="PS12" src="https://github.com/mriana9/Problem-Solving/assets/91687711/fc55f80b-aaa0-4064-bdef-63f1c09bd351">
+</hr>
+
+<h2>❤️PS13: Calculate average</h2>
+<img width="950" alt="PS13" src="https://github.com/mriana9/Problem-Solving/assets/91687711/b9598b87-34b5-47a5-a48a-27d75e363b25">
+</hr>
+
+<h2>❤️PS14: </h2>
+
+</hr>
+
+<h2>❤️PS15: Keep Hydrated!</h2>
+<img width="950" alt="PS15" src="https://github.com/mriana9/Problem-Solving/assets/91687711/b8a4ec43-ff54-4137-976e-0cbab268e7bc">
+</hr>
+
+<h2>❤️PS16:Beginner - Reduce but Grow </h2>
+<img width="950" alt="PS16" src="https://github.com/mriana9/Problem-Solving/assets/91687711/654c272d-1ce6-405b-a37a-2341f4571f87">
+</hr>
+
+<h2>❤️PS17: Convert a String to a Number!</h2>
+<img width="950" alt="PS17" src="https://github.com/mriana9/Problem-Solving/assets/91687711/d5fde535-a493-4b87-9439-1f6ab9f5392e">
+</hr>
 
 
