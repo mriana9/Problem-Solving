@@ -19,4 +19,7 @@ function repeatStr (n, s) {
     return result ;
 }
 
+//  return s.repeat(n);
+
+
 console.log(repeatStr(3,'*'));
