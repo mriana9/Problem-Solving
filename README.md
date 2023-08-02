@@ -67,4 +67,29 @@
 <img width="950" alt="PS17" src="https://github.com/mriana9/Problem-Solving/assets/91687711/d5fde535-a493-4b87-9439-1f6ab9f5392e">
 </hr>
 
+<h2>❤️PS18: Remove First and Last Character</h2>
+<img width="950" alt="PS18" src="https://github.com/mriana9/Problem-Solving/assets/91687711/80056d1d-9e03-43f9-8e3a-0cac52016b80">
+</hr>
+
+<h2>❤️PS19: String repeat</h2>
+<img width="950" alt="PS19" src="https://github.com/mriana9/Problem-Solving/assets/91687711/cae66bce-ce44-4c16-a680-9c0847b76ec6">
+</hr>
+
+<h2>❤️PS20:Remove String Spaces </h2>
+<img width="950" alt="PS20" src="https://github.com/mriana9/Problem-Solving/assets/91687711/1ea755a2-306b-4f38-8172-933edc40f8af">
+</hr>
+
+<h2>❤️PS21: All Star Code Challenge #18</h2>
+<img width="950" alt="PS21" src="https://github.com/mriana9/Problem-Solving/assets/91687711/9b521313-d8b1-46e4-87b0-9bb735459ccb">
+</hr>
+
+<h2>❤️PS22: Beginner Series #2 Clock</h2>
+<img width="950" alt="PS22" src="https://github.com/mriana9/Problem-Solving/assets/91687711/347f52a9-6121-42b7-834a-08833088a6ca">
+</hr>
+
+<h2>❤️PS23: altERnaTIng cAsE <=> ALTerNAtiNG CaSe</h2>
+<img width="950" alt="PS23" src="https://github.com/mriana9/Problem-Solving/assets/91687711/c746298d-801e-40f0-8707-9552053daf7a">
+</hr>
+
+
 
