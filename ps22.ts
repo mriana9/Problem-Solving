@@ -1,4 +1,4 @@
-console.log("PS22: All Star Code Challenge #18");
+console.log("PS22: Beginner Series #2 Clock");
 console.log('__________________________________________________________________________________________________')
 
 /*
