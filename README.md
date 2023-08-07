@@ -4,7 +4,8 @@
 <img width="950" alt="PS1" src="https://github.com/mriana9/Problem-Solving/assets/91687711/2c1d7497-4af1-42ab-b279-d421a99cff24">
 </hr>
 
-<h2>❤️PS2: The first century spans from the year 1 up to and including the year 100, the second century - from the year 101 up to and including the year 200, etc.</h2><img width="950" alt="PS2" src="https://github.com/mriana9/Problem-Solving/assets/91687711/6ae2b5eb-d972-4b23-817d-7b1648a73b93">
+<h2>❤️PS2: The first century spans from the year 1 up to and including the year 100, the second century - from the year 101 up to and including the year 200, etc.</h2>
+<img width="950" alt="PS2" src="https://github.com/mriana9/Problem-Solving/assets/91687711/6ae2b5eb-d972-4b23-817d-7b1648a73b93">
 </hr>
 
 <h2>❤️PS3: Create a function that checks if a number n is divisible by two numbers x AND y. All inputs are positive, non-zero numbers.</h2>
