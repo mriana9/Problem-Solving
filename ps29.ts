@@ -1,4 +1,4 @@
-console.log("PS 30: Count Odd Numbers Below N");
+console.log("PS 29: Count Odd Numbers Below N");
 console.log('__________________________________________________________________________________________________')
 
 /*
