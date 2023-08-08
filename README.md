@@ -1,4 +1,4 @@
-# Problem-Solving <JavaScript> 🧠👀❤️🙅‍♀️
+# Problem-Solving [JavaScript] 🧠👀❤️🙅‍♀️
 
 <h2>❤️PS1: This kata is about multiplying a given number by eight if it is an even number and by nine otherwise.</h2>
 </hr>
