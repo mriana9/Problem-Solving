@@ -1,24 +1,24 @@
 # Problem-Solving [JavaScript] 🧠👀❤️🙅‍♀️
 
-<h2>❤️PS1: This kata is about multiplying a given number by eight if it is an even number and by nine otherwise.</h2>
+<h2>❤️PS1: Simple Multiplication</h2>
 </hr>
 
-<h2>❤️PS2: The first century spans from the year 1 up to and including the year 100, the second century - from the year 101 up to and including the year 200, etc.</h2>
+<h2>❤️PS2: Century From Year</h2>
 </hr>
 
-<h2>❤️PS3: Create a function that checks if a number n is divisible by two numbers x AND y. All inputs are positive, non-zero numbers.</h2>
+<h2>❤️PS3: Is N Divisible By X And Y?</h2>
 </hr>
 
-<h2>❤️PS4: Create a function that takes an integer as an argument and returns Even for even numbers or Odd for odd numbers</h2>
+<h2>❤️PS4: Even Or Odd</h2>
 </hr>
 
-<h2>❤️PS5: Complete the solution so that it reverses the string passed into it.</h2>
+<h2>❤️PS5: Reversed Strings.</h2>
 </hr>
 
-<h2>❤️PS6: Implement a function which convert the given boolean value into its string representation.</h2>
+<h2>❤️PS6: Convert A Boolean To A String.</h2>
 </hr>
 
-<h2>❤️PS7: There's a 3 for 2 (or 2+1 if you like) offer on mangoes. For a given quantity and price (per mango), calculate the total cost of the mangoes.</h2>
+<h2>❤️PS7:Price Of Mangoes</h2>
 </hr>
 
 <h2>❤️PS8: Quarter of the year</h2>
@@ -93,5 +93,7 @@
 <h2>❤️PS31: Return Negative</h2>
 </hr>
 
+<h2>❤️PS32: Swap Values</h2>
+</hr>
 
 
