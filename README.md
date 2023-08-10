@@ -104,3 +104,6 @@
 
 <h2>❤️PS35: Correct the mistakes of the character recognition software</h2>
 </hr>
+
+<h2>❤️PS36: Rock Paper Scissors!</h2>
+</hr>
