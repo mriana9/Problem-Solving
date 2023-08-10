@@ -113,3 +113,6 @@
 
 <h2>❤️PS38: Get Character From ASCII Value</h2>
 </hr>
+
+<h2>❤️PS39: Get Nth Even Number</h2>
+</hr>
