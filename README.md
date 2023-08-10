@@ -101,3 +101,6 @@
 
 <h2>❤️PS34: Is he gonna survive?</h2>
 </hr>
+
+<h2>❤️PS35: Correct the mistakes of the character recognition software</h2>
+</hr>
