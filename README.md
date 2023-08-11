@@ -120,3 +120,13 @@
 
 <h2>❤️PS40: What is between? </h2>
 </hr>
+
+<h2>❤️PS41: Abbreviate a Two Word Name </h2>
+</hr>
+
+<h2>❤️PS42: MakeUpperCase </h2>
+</hr>
+
+<h2>❤️PS43: You Only Need One - Beginner</h2>
+</hr>
+
