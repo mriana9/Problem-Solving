@@ -130,3 +130,14 @@
 <h2>❤️PS43: You Only Need One - Beginner</h2>
 </hr>
 
+<h2>❤️PS44: Switch it Up</h2>
+</hr>
+
+<h2>❤️PS45: Opposites Number</h2>
+</hr>
+
+<h2>❤️PS46: Opposites Attract</h2>
+</hr>
+
+<h2>❤️PS47: Grasshopper - Terminal Game Move Function Attract</h2>
+</hr>
