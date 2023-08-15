@@ -141,3 +141,12 @@
 
 <h2>❤️PS47: Grasshopper - Terminal Game Move Function Attract</h2>
 </hr>
+
+<h2>❤️PS48: Sum Of Differences In Array</h2>
+</hr>
+
+<h2>❤️PS49: Grasshopper - Messi goals function</h2>
+</hr>
+
+<h2>❤️PS50: Get Planet Name By ID</h2>
+</hr>
