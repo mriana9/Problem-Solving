@@ -1,4 +1,4 @@
-console.log("PS 44: Opposites Attract");
+console.log("PS 44: Opposites Number");
 console.log('__________________________________________________________________________________________________')
 
 /*
