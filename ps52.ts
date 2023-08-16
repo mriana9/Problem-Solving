@@ -17,7 +17,7 @@ var countSheep = function (num){
         }
     }
     else if(num === 0) {
-        countSheep+= '""';
+        countSheep+= '';
     }
     else {
         countSheep+= 'num most be more than zero';
@@ -26,5 +26,5 @@ var countSheep = function (num){
     return countSheep;
 }
 
-console.log(countSheep(0));
-console.log(countSheep(3));
+console.log(countSheep(0));// ""
+console.log(countSheep(3)); //1 sheep...2 sheep...3 sheep...
