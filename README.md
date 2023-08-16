@@ -150,3 +150,12 @@
 
 <h2>❤️PS50: Get Planet Name By ID</h2>
 </hr>
+
+<h2>❤️PS51: Array Plus Array</h2>
+</hr>
+
+<h2>❤️PS52: If You Can't Sleep, Just Count Sheep</h2>
+</hr>
+
+<h2>❤️PS53: The Feast of Many Beasts</h2>
+</hr>
