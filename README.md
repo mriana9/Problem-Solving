@@ -159,3 +159,12 @@
 
 <h2>❤️PS53: The Feast of Many Beasts</h2>
 </hr>
+
+<h2>❤️PS54: Count The Monkeys</h2>
+</hr>
+
+<h2>❤️PS55: Sum The Strings</h2>
+</hr>
+
+<h2>❤️PS56: Parse Nice Int From Char Problem</h2>
+</hr>
