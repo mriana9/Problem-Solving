@@ -168,3 +168,6 @@
 
 <h2>❤️PS56: Parse Nice Int From Char Problem</h2>
 </hr>
+
+<h2>❤️PS57: Multiplication Table For Number</h2>
+</hr>
