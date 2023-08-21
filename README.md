@@ -172,11 +172,23 @@
 <h2>❤️PS57: Multiplication Table For Number</h2>
 </hr>
 
-<h2>❤️PS57: Do I Get A Bonus</h2>
+<h2>❤️PS58: Do I Get A Bonus</h2>
 </hr>
 
 <h2>❤️PS59:  Count By X</h2>
 </hr>
 
 <h2>❤️PS60: 101 Dalmatians - Squash The Bugs, Not The Dogs!</h2>
+</hr>
+
+<h2>❤️PS61: Convert A Number To A String</h2>
+</hr>
+
+<h2>❤️PS62: Sort And Star</h2>
+</hr>
+
+<h2>❤️PS63: Reversed Sequence</h2>
+</hr>
+
+<h2>❤️PS64: L1: Set Alarm</h2>
 </hr>
