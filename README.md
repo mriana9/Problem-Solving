@@ -192,3 +192,6 @@
 
 <h2>❤️PS64: L1: Set Alarm</h2>
 </hr>
+
+<h2>❤️65:Sum Without Highest And Lowest Number</h2>
+</hr>
