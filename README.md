@@ -198,3 +198,6 @@
 
 <h2>❤️66: Grasshopper - Terminal Game Combat Function</h2>
 </hr>
+
+<h2>❤️67: Find The Smallest Integer In The Array</h2>
+</hr>
