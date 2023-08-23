@@ -205,5 +205,8 @@
 <h2>❤️68: Sum Of Positive</h2>
 </hr>
 
-<h2>❤️68: Volume Of A Cuboid</h2>
+<h2>❤️69: Volume Of A Cuboid</h2>
+</hr>
+
+<h2>❤️70: Get The Mean Of An Array</h2>
 </hr>
