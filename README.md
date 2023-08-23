@@ -210,3 +210,6 @@
 
 <h2>❤️70: Get The Mean Of An Array</h2>
 </hr>
+
+<h2>❤️71: Fake Binary </h2>
+</hr>

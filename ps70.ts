@@ -1,5 +1,6 @@
 console.log("PS 70: Get The Mean Of An Array");
 console.log('__________________________________________________________________________________________________')
+
 /*
 DESCRIPTION:
 It's the academic year's end, fateful moment of your school report. The averages must be calculated. All the students come to you and entreat you to calculate their average for them. Easy ! You just need to write a script.
