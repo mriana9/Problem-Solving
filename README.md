@@ -201,3 +201,21 @@
 
 <h2>❤️67: Find The Smallest Integer In The Array</h2>
 </hr>
+
+<h2>❤️68: Sum Of Positive</h2>
+</hr>
+
+<h2>❤️69: Volume Of A Cuboid</h2>
+</hr>
+
+<h2>❤️70: Get The Mean Of An Array</h2>
+</hr>
+
+<h2>❤️71: Fake Binary </h2>
+</hr>
+
+<h2>❤️72: The Falling Speed Of Petals</h2>
+</hr>
+
+<h2>❤️73: Replace All Vowel To Exclamation Mark In The Sentence/h2>
+</hr>
