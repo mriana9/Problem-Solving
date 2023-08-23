@@ -201,3 +201,6 @@
 
 <h2>❤️67: Find The Smallest Integer In The Array</h2>
 </hr>
+
+<h2>❤️68: Sum Of Positive</h2>
+</hr>
