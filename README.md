@@ -217,5 +217,9 @@
 <h2>❤️72: The Falling Speed Of Petals</h2>
 </hr>
 
-<h2>❤️73: Replace All Vowel To Exclamation Mark In The Sentence/h2>
+<h2>❤️73: Replace All Vowel To Exclamation Mark In The Sentence</h2>
 </hr>
+
+<h2>❤️74: Convert A String To An Array</h2>
+</hr>
+
