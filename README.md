@@ -228,3 +228,21 @@
 
 <h2>❤️76: How good are you really?</h2>
 </hr>
+
+<h2>❤️77: Twice As Old</h2>
+</hr>
+
+<h2>❤️78: DNA To RNA Conversion</h2>
+</hr>
+
+<h2>❤️79: Grasshopper - Check for factor</h2>
+</hr>
+
+<h2>❤️ 80: Convert Number To Reversed Array Of Digits</h2>
+</hr>
+
+<h2>❤️ 81: Is it A Palindrome</h2>
+</hr>
+
+<h2>❤️ 82: Reversed Words</h2>
+</hr>
