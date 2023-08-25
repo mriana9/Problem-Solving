@@ -243,3 +243,6 @@
 
 <h2>❤️ 81: Is it A Palindrome</h2>
 </hr>
+
+<h2>❤️ 82: Reversed Words</h2>
+</hr>
