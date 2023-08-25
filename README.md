@@ -240,3 +240,6 @@
 
 <h2>❤️ 80: Convert Number To Reversed Array Of Digits</h2>
 </hr>
+
+<h2>❤️ 81: Is it A Palindrome</h2>
+</hr>
