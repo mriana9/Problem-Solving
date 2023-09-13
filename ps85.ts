@@ -26,7 +26,6 @@ function updateLight(current) {
     else {
         return 'green';
     }
-  
 }
 
 console.log(updateLight('green')); //yellow
