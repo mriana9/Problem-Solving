@@ -255,3 +255,12 @@
 
 <h2>❤️ 85: Thinkful - Logic Drills: Traffic Light</h2>
 </hr>
+
+<h2>❤️ 86: My Head Is At The Wrong End!</h2>
+</hr>
+
+<h2>❤️ 87: Gravity Flip</h2>
+</hr>
+
+ <h2>❤️ 88: Collatz Conjecture (3n+1)</h2>
+</hr>
