@@ -261,3 +261,6 @@
 
 <h2>❤️ 87: Gravity Flip</h2>
 </hr>
+
+ <h2>❤️ 88: Collatz Conjecture (3n+1)</h2>
+</hr>
