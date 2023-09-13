@@ -246,3 +246,12 @@
 
 <h2>❤️ 82: Reversed Words</h2>
 </hr>
+
+<h2>❤️ 83: Powers Of 2</h2>
+</hr>
+
+<h2>❤️ 84: Grasshopper - Summation</h2>
+</hr>
+
+<h2>❤️ 85: Thinkful - Logic Drills: Traffic Light</h2>
+</hr>
