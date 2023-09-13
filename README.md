@@ -246,3 +246,6 @@
 
 <h2>❤️ 82: Reversed Words</h2>
 </hr>
+
+<h2>❤️ 83: Powers Of 2</h2>
+</hr>
