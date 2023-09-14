@@ -270,3 +270,6 @@
 
  <h2>❤️ 90: Expressions Matter</h2>
 </hr>
+
+<h2>❤️ 91: Pythagorean Triple</h2>
+</hr>
