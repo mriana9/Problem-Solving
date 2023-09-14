@@ -273,3 +273,7 @@
 
 <h2>❤️ 91: Pythagorean Triple</h2>
 </hr>
+
+
+<h2>❤️ 92: Sum Arrays</h2>
+</hr>
