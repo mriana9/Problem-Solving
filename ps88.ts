@@ -1,4 +1,4 @@
-console.log("PS 87: Collatz Conjecture (3n+1)");
+console.log("PS 88: Collatz Conjecture (3n+1)");
 console.log('__________________________________________________________________________________________________')
 
 
