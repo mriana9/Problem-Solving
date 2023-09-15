@@ -279,3 +279,6 @@
 
 <h2>❤️ 93: Total Amount Of Points</h2>
 </hr>
+
+<h2>❤️ 94: Seats in Theater</h2>
+</hr>
