@@ -1,4 +1,4 @@
-console.log("PS 95: Grasshopper - Grade Book");
+console.log("PS 96: Grasshopper - Grade Book")
 console.log('__________________________________________________________________________________________________')
 
 /*

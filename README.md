@@ -291,3 +291,21 @@
 
 <h2>❤️ 97: Beginner Series #1 School Paperwork</h2>
 </hr>
+
+<h2>❤️ 98: Transportation On Vacation</h2>
+</hr>
+
+<h2>❤️ 99: Lario and Muigi Pipe Problem</h2>
+</hr>
+
+<h2>❤️ 100: Student's Final Grade</h2>
+</hr>
+
+<h2>❤️ 101: Area or Perimeter</h2>
+</hr>
+
+<h2>❤️ 102: Find Numbers Which Are Divisible By Given Number</h2>
+</hr>
+
+<h2>❤️ 103: Returning Strings</h2>
+</hr>
