@@ -285,3 +285,6 @@
 
 <h2>❤️ 95: N-th Power</h2>
 </hr>
+
+<h2>❤️ 96: Grasshopper - Grade Book</h2>
+</hr>
