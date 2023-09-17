@@ -1,4 +1,4 @@
-# Problem-Solving [JavaScript] 🧠👀❤️🙅‍♀️
+# Problems-Solving [JavaScript] 🧠👀❤️🙅‍♀️
 
 <h2>❤️PS1: Simple Multiplication</h2>
 </hr>
