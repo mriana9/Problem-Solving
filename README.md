@@ -297,3 +297,6 @@
 
 <h2>❤️ 99: Lario and Muigi Pipe Problem</h2>
 </hr>
+
+<h2>❤️ 100: Student's Final Grade</h2>
+</hr>
