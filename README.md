@@ -282,3 +282,6 @@
 
 <h2>❤️ 94: Seats in Theater</h2>
 </hr>
+
+<h2>❤️ 95: N-th Power</h2>
+</hr>
