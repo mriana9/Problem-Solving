@@ -282,3 +282,12 @@
 
 <h2>❤️ 94: Seats in Theater</h2>
 </hr>
+
+<h2>❤️ 95: N-th Power</h2>
+</hr>
+
+<h2>❤️ 96: Grasshopper - Grade Book</h2>
+</hr>
+
+<h2>❤️ 97: Beginner Series #1 School Paperwork</h2>
+</hr>
